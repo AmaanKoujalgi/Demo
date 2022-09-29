@@ -1,3 +1,3 @@
 # Demo
 
-This is my updated demo description
+This is updated from Visual Studio Code
